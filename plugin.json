@@ -1,0 +1,23 @@
+{
+ "author":"SUPINFO AppFactory"
+,"pluginName":"Timer"
+,"pluginDescription":"With the timer plugin, you can create preset timers for a variety of items."
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"pluginIcon": "icon.png"
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":true
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : [],
+  "languages" : ["en"]
+}
