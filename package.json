@@ -1,7 +1,7 @@
 {
   "name": "fixedTimerPlugin",
   "version": "1.0.0",
-  "description": "This SUPINFO AppFactory plugin creates a timer on how much exposure you should be exposed to",
+  "description": "This plugin creates a timer on how much exposure you should be exposed to",
   "main": "index.js",
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
